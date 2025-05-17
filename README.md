@@ -43,7 +43,7 @@
 
 ### ✍️ Blogs & Articles
 
-> Coming soon: [mukesh-datascience.medium.com](#) (Work in progress)
+> Visit my Medium blog: [mukesh-datascience.medium.com](https://medium.com/@mkn6463)
 
 - 📌 *Paisa Bazaar Fraud Detection – Full EDA Breakdown*  
 - 📌 [*5 Must-Know Python Libraries for Data Science*](https://medium.com/@mkn6463/5-must-know-python-libraries-for-data-science-56334e2e1ee6)
