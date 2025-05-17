@@ -78,7 +78,7 @@
 
 - ✉️ Email: [mkn6463@gmail.com](mailto:mkn6463@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/mukeshkumar-nautiyal](https://www.linkedin.com/in/mukesh-nautiyal-23978a2b1/)  
-- 🌐 Portfolio: *Coming soon*
+
 
 ---
 
