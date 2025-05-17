@@ -47,7 +47,7 @@
 
 - 📌 *Paisa Bazaar Fraud Detection – Full EDA Breakdown*  
 - 📌 [*5 Must-Know Python Libraries for Data Science*](https://medium.com/@mkn6463/5-must-know-python-libraries-for-data-science-56334e2e1ee6)
-- 📌 *Behind the Scenes of LinkedIn's Product Design (Case Study)*  
+- 📌 [*Mastering SQL Window Functions: The Secret Weapon for Data Analysts*] (https://medium.com/@mkn6463/mastering-sql-window-functions-the-secret-weapon-for-data-analysts-4c981ca3a1c8)  
 
 ---
 
