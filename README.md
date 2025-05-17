@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Scientist | MSc Machine Learning & AI | MA Economics | DU Graduate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=460&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+AI+Enthusiast;Let's+solve+real-world+problems+together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Data+Science+%7C+ML+%7C+AI+Enthusiast;Let's+solve+real-world+problems+together+🚀" alt="Typing SVG" />
 </p>
 
 ---
