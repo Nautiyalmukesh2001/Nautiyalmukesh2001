@@ -19,16 +19,16 @@
 
 ### 📌 Featured Projects
 
-- 🏦 **[Paisa Bazaar Banking Fraud Analysis](#)**  
+- 🏦 **[Paisa Bazaar Banking Fraud Analysis](https://github.com/Nautiyalmukesh2001/Paisabazaar-EDA)**  
   Fraud pattern detection using ML & financial data
 
-- 📈 **[Yes Bank Stock Price Prediction](#)**  
-  Time-series forecasting using LSTM and regression models
+- 📈 **[Yes Bank Stock Price Prediction](https://github.com/Nautiyalmukesh2001/Yes-Bank-Stock-Price-Prediction)**  
+  Time-series forecasting using ARIMA/SARIMA and regression models
 
 - 🔍 **[LinkedIn Product Dissection](#)**  
   Platform architecture + data schema + SQL implementation
 
-- 🎥 **[JustWatch Web Scraper](#)**  
+- 🎥 **[JustWatch Web Scraper](https://github.com/Nautiyalmukesh2001/JustWatch_Web_Scraping)**  
   Built a scraper to extract OTT platform data using Python + BeautifulSoup
 
 ---
@@ -36,7 +36,7 @@
 ### 📚 Certifications
 
 - 🧾 AlmaBetter Full Stack Data Science Program  
-- 📊 HackerRank Python Certificate 
+- 📊 HackerRank Python Certificate: 
 - 🧠 HackerRank SQL Certificate
 
 ---
