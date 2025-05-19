@@ -35,9 +35,9 @@
 
 ### 📚 Certifications
 
-- 🧾 **AlmaBetter Full Stack Data Science Program**
-- 📊 HackerRank Python Certificate: 
-- 🧠 HackerRank SQL Certificate
+- 🧾 AlmaBetter Full Stack Data Science Program: 
+- 📊 HackerRank Python Certificate: *[Basic](https://www.hackerrank.com/certificates/iframe/3d393a3606ef)*
+- 🧠 HackerRank SQL Certificate: *[Basic](https://www.hackerrank.com/certificates/iframe/147c65a79df2)*, *[Intermediate](https://www.hackerrank.com/certificates/iframe/0c0a36644e67)*, *[Advanced](https://www.hackerrank.com/certificates/iframe/2c523ec637d1)*
 
 ---
 
@@ -45,7 +45,6 @@
 
 > Visit my Medium blog: [mukesh-datascience.medium.com](https://medium.com/@mkn6463)
 
-- 📌 *Paisa Bazaar Fraud Detection – Full EDA Breakdown*  
 - 📌 [*5 Must-Know Python Libraries for Data Science*](https://medium.com/@mkn6463/5-must-know-python-libraries-for-data-science-56334e2e1ee6)
 - 📌 [*Mastering SQL Window Functions: The Secret Weapon for Data Analysts*](https://medium.com/@mkn6463/mastering-sql-window-functions-the-secret-weapon-for-data-analysts-4c981ca3a1c8)  
 
