@@ -35,7 +35,7 @@
 
 ### 📚 Certifications
 
-- 🧾 AlmaBetter Full Stack Data Science Program  
+- 🧾 **AlmaBetter Full Stack Data Science Program**
 - 📊 HackerRank Python Certificate: 
 - 🧠 HackerRank SQL Certificate
 
